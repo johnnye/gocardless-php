@@ -14,7 +14,7 @@ The following links may be useful:
 - You can also use GoCardless via the [PHP Payments](https://github.com/calvinfroedge/PHP-Payments) library and [CodeIgniter Payments](http://getsparks.org/packages/codeigniter-payments/versions/HEAD/show) spark
 - [Full library reference](http://gocardless.github.com/gocardless-php/)
 
-You can also use GoCardless via the [PHP Payments](https://github.com/calvinfroedge/PHP-Payments) library and [CodeIgniter Payments](http://getsparks.org/packages/codeigniter-payments/versions/HEAD/show) spark.
+You can also use GoCardless via [PHP Payments](https://github.com/calvinfroedge/PHP-Payments), [Omnipay](https://github.com/thephpleague/omnipay-gocardless) and [CodeIgniter Payments](http://getsparks.org/packages/codeigniter-payments/versions/HEAD/show) spark.
 
 ### Requirements
 
